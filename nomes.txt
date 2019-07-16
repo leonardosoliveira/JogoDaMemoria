@@ -1,0 +1,4 @@
+- Jogo da Velha
+- Jogo da Forca 
+- genius
+- ligar os pontos
